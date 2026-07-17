@@ -2,4 +2,5 @@
 
 >This is a non-exhaustive list of cybersecurity and cybersecurity-related books that are recommended reading for cyber defenders, pen-testers, and other professionals in the cybersecurity field.
 
-
+American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road, Nick Bilton. https://www.goodreads.com/book/show/31920777-american-kingpin 
+The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data, Kevin D. Mitnick, Robert Vamosi (Co-author). https://www.goodreads.com/book/show/30363785-the-art-of-invisibility
